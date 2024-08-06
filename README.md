@@ -1,6 +1,6 @@
-# CS4348 Assignment 4 pipegrep
+#pipegrep
 
-# Written by Manu Shanbhog mxs200106
+# Written by Manu Shanbhog 
 
 `pipegrep` is a multi-threaded command-line application designed to simulate a simplified version of the UNIX `grep` command with a pipelined architecture. The application recursively searches through directories for text files that match specific user-defined criteria (such as file size, owner UID, group GID) and extracts lines containing a specified search string.
 
